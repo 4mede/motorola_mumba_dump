@@ -1,0 +1,14 @@
+# user 16 WWAA36V.48-12-ST12.1 a0ae9 release-keys
+- manufacturer: motorola
+- platform: parrot
+- codename: mumba
+- flavor: user
+- release: 16
+- id: WWAA36V.48-12-ST12.1
+- incremental: a0ae9
+- tags: release-keys
+- fingerprint: motorola/mumba/mumba:15/WWAA36V.48-12-ST12.1/a0ae9:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-16-WWAA36V.48-12-ST12.1-a0ae9-release-keys
+- repo: motorola_mumba_dump
