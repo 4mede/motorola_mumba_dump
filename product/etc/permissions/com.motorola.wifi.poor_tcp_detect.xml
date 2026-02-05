@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2025 Motorola Mobility.
+     All Rights Reserved.
+     Motorola Mobility Confidential Restricted.
+-->
+
+<!-- This is the standard feature indicating that the device includes WiFi Poor TCP Detection Mechanism. -->
+<permissions>
+    <feature name="com.motorola.wifi.poor_tcp_detect" />
+</permissions>
